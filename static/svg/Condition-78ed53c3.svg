@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Condition</title>
+    <defs>
+        <rect id="condition-1" x="3" y="3" width="48" height="48" rx="8"></rect>
+        <filter x="-9.4%" y="-9.4%" width="118.8%" height="118.8%" filterUnits="objectBoundingBox" id="condition-filter-2">
+            <feGaussianBlur stdDeviation="4" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.143078357 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="8" y="8" width="38" height="38" rx="8"></rect>
+        <filter x="-11.8%" y="-11.8%" width="123.7%" height="123.7%" filterUnits="objectBoundingBox" id="condition-filter-4">
+            <feGaussianBlur stdDeviation="4" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.143078357 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="add-Scenes_test、delete" transform="translate(-1670.000000, -184.000000)">
+            <g id="Condition" transform="translate(1670.000000, 184.000000)">
+                <g id="矩形备份-9" opacity="0">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#condition-1"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#condition-filter-2)" xlink:href="#condition-1"></use>
+                </g>
+                <g id="矩形备份-9" transform="translate(27.000000, 27.000000) rotate(-315.000000) translate(-27.000000, -27.000000) ">
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <use fill="black" fill-opacity="1" filter="url(#condition-filter-4)" xlink:href="#path-3"></use>
+                </g>
+                <path d="M35.0868309,17.4822929 C35.4879842,17.4773865 35.8546382,17.7046324 36.0231038,18.0625791 C36.2040315,18.4195253 36.1520487,18.8480162 35.8908043,19.1531166 L29.9373295,26.2866221 L29.9369423,27.657215 L27.8809423,27.657215 L27.8815906,25.9264349 C27.8839757,25.6914225 27.9704441,25.4647341 28.1258318,25.286123 L32.9089731,19.4832615 L19.4144276,19.4832615 L24.3909249,25.2661137 C24.5508655,25.4499544 24.637635,25.684539 24.6351703,25.9264394 L24.6351703,32.7528117 L25.8156886,33.6632607 C26.2636009,33.9970521 26.3514606,34.624614 26.011933,35.0649562 C26.0043694,35.0747657 25.9966222,35.0844371 25.9886956,35.0939654 C25.8197736,35.3074427 25.5701325,35.4445902 25.296668,35.4741537 C25.0238187,35.5084032 24.7484881,35.4326129 24.533402,35.2640512 L22.9559867,34.0434487 C22.7035567,33.8524233 22.5566746,33.5562163 22.5590877,33.2430553 L22.5590877,26.3066314 L16.3715504,19.1631212 C16.1177208,18.8560666 16.0588677,18.4356302 16.2188972,18.0725838 C16.3828347,17.7140486 16.7451447,17.4831128 17.1449935,17.4822929 L35.0868309,17.4822929 Z" id="形状结合" fill="#646C9A" fill-rule="nonzero"></path>
+                <path d="M28.1179504,33.4374182 C27.5722886,33.4374182 27.1299423,32.9688636 27.1299423,32.3908721 C27.1299423,31.8128807 27.5722886,31.344326 28.1179504,31.344326 C30.9744909,31.344326 33.1168962,31.344326 34.5451664,31.344326 C34.9000037,31.344326 35.4322597,31.344326 36.1419343,31.344326 C36.687596,31.344326 37.1299423,31.8128807 37.1299423,32.3908721 C37.1299423,32.9688636 36.687596,33.4374182 36.1419342,33.4374182 L28.1179504,33.4374182 Z M31.0838687,28.4851778 C31.0838687,27.9312568 31.545437,27.482215 32.1148103,27.482215 C32.6841836,27.482215 33.1457519,27.9312568 33.1457519,28.4851778 L33.1457519,36.4792524 C33.1457519,37.0331733 32.6841836,37.482215 32.1148103,37.482215 C31.545437,37.482215 31.0838687,37.0331733 31.0838687,36.4792523 L31.0838687,28.4851778 Z" id="形状" fill="#5B73FF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

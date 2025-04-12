@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>home_device_more _Normal</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-1018.000000, -244.000000)">
+            <g id="home_device_more-_Normal" transform="translate(1018.000000, 244.000000)">
+                <rect id="矩形备份-6" fill="#000000" opacity="0" x="0" y="0" width="28" height="20" rx="10"></rect>
+                <g id="更多备份-12" transform="translate(14.500000, 9.500000) scale(1, -1) translate(-14.500000, -9.500000) translate(5.000000, 8.000000)" fill="#778CA2" fill-rule="nonzero">
+                    <path d="M1.5,3 L1.5,3 C2.32842638,3 3,2.32842637 3,1.5 C3,0.671573632 2.32842638,0 1.5,0 L1.5,0 C0.671573617,0 0,0.671573632 0,1.5 C0,2.32842637 0.671573617,3 1.5,3 L1.5,3 Z M9.5,3 L9.5,3 C10.3284264,3 11,2.32842637 11,1.5 C11,0.671573632 10.3284264,0 9.5,0 L9.5,0 C8.67157362,0 8,0.671573632 8,1.5 C8,2.32842637 8.67157362,3 9.5,3 L9.5,3 Z M17.5,3 L17.5,3 C18.3284264,3 19,2.32842637 19,1.5 C19,0.671573632 18.3284264,0 17.5,0 L17.5,0 C16.6715736,0 16,0.671573632 16,1.5 C16,2.32842637 16.6715736,3 17.5,3 L17.5,3 Z" id="形状"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

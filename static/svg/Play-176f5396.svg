@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="52px" viewBox="0 0 52 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Play</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="画板" transform="translate(-182.000000, -1158.000000)">
+            <g id="Play" transform="translate(182.000000, 1158.000000)">
+                <rect id="矩形" stroke="#979797" fill="#D8D8D8" opacity="0" x="0.5" y="0.5" width="51" height="51"></rect>
+                <circle id="Oval" fill="#FE517F" cx="26" cy="26" r="26"></circle>
+                <path d="M23.8338632,34.4716019 L32.9213252,26.3202256 C33.1268874,26.135838 33.1440528,25.8197212 32.9596653,25.614159 C32.9479362,25.601083 32.9355262,25.5886341 32.9224869,25.5768642 L23.835025,17.3740855 C23.6300401,17.1890563 23.3138712,17.2052336 23.128842,17.4102185 C23.0459081,17.502097 23,17.6214707 23,17.7452435 L23,34.0993986 C23,34.375541 23.2238576,34.5993986 23.5,34.5993986 C23.6232339,34.5993986 23.7421271,34.5538885 23.8338632,34.4716019 Z" id="Path-10" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
