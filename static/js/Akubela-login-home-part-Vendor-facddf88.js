@@ -4089,7 +4089,7 @@ const wb = async () => (gb(),
 bb = await new Promise((async e => {
     e({
         en: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/en.js");
+            const {data: A} = await pb.get("./static/lang/en.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4097,7 +4097,7 @@ bb = await new Promise((async e => {
         }
         )),
         "zh-cn": await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/zh.js");
+            const {data: A} = await pb.get("./static/lang/zh.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4105,7 +4105,7 @@ bb = await new Promise((async e => {
         }
         )),
         "zh-tw": await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/zhTw.js");
+            const {data: A} = await pb.get("./static/lang/zhTw.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4113,7 +4113,7 @@ bb = await new Promise((async e => {
         }
         )),
         de: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/de.js");
+            const {data: A} = await pb.get("./static/lang/de.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4121,7 +4121,7 @@ bb = await new Promise((async e => {
         }
         )),
         es: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/es.js");
+            const {data: A} = await pb.get("./static/lang/es.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4129,7 +4129,7 @@ bb = await new Promise((async e => {
         }
         )),
         fr: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/fr.js");
+            const {data: A} = await pb.get("./static/lang/fr.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4137,7 +4137,7 @@ bb = await new Promise((async e => {
         }
         )),
         it: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/it.js");
+            const {data: A} = await pb.get("./static/lang/it.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4145,7 +4145,7 @@ bb = await new Promise((async e => {
         }
         )),
         ja: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/ja.js");
+            const {data: A} = await pb.get("./static/lang/ja.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4153,7 +4153,7 @@ bb = await new Promise((async e => {
         }
         )),
         ko: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/ko.js");
+            const {data: A} = await pb.get("./static/lang/ko.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4161,7 +4161,7 @@ bb = await new Promise((async e => {
         }
         )),
         nl: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/nl.js");
+            const {data: A} = await pb.get("./static/lang/nl.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4169,7 +4169,7 @@ bb = await new Promise((async e => {
         }
         )),
         pl: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/pl.js");
+            const {data: A} = await pb.get("./static/lang/pl.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4177,7 +4177,7 @@ bb = await new Promise((async e => {
         }
         )),
         pt: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/pt.js");
+            const {data: A} = await pb.get("./static/lang/pt.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4185,7 +4185,7 @@ bb = await new Promise((async e => {
         }
         )),
         ru: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/ru.js");
+            const {data: A} = await pb.get("./static/lang/ru.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4193,7 +4193,7 @@ bb = await new Promise((async e => {
         }
         )),
         tr: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/tr.js");
+            const {data: A} = await pb.get("./static/lang/tr.js");
             e({
                 ...A,
                 ...uv(A)
@@ -4201,7 +4201,7 @@ bb = await new Promise((async e => {
         }
         )),
         uk: await new Promise((async e => {
-            const {data: A} = await pb.get("/static/lang/uk.js");
+            const {data: A} = await pb.get("./static/lang/uk.js");
             e({
                 ...A,
                 ...uv(A)
