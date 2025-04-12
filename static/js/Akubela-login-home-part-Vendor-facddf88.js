@@ -13186,10 +13186,20 @@ const jy = e => /^((\d{2}(([02468][048])|([13579][26]))[\-\/\s]?((((0?[13578])|(
 }, {
     path: "/notFound",
     name: "NotFound",
-    component: () => aB(( () => import("./index-4843dc5c.js")), ["static/js/index-4843dc5c.js", "static/js/Akubela-element-plus-Vendor-47553b40.js", "static/js/Akubela-devices-img-Vendor-0f46fa2c.js", "static/js/Akubela-scenes-security-other-img-Vendor-2a1534ad.js"]),
+    redirect: "loginView",
+    component: () => aB(( () => Promise.resolve().then(( () => sk))), void 0),
     meta: {
-        title: "NotFound"
-    }
+        title: "Login"
+    },
+    children: [{
+        name: "LoginView",
+        path: "loginView",
+        component: () => aB(( () => Promise.resolve().then(( () => CD))), void 0)
+    }, {
+        name: "ForgotPass",
+        path: "forgotPass",
+        component: () => aB(( () => Promise.resolve().then(( () => KD))), void 0)
+    }]
 }, {
     name: "Login",
     path: "/login",
